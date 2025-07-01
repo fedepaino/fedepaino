@@ -1,5 +1,5 @@
 
-<h1>Hi everyone 👋, I'm Federico</h1>
+<h1>Hi everyone  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Federico</h1>
 <h3>From Mechanics to Code: My Journey as a Full Stack Developer</h3>
 <p>
 I'm a passionate Full Stack Developer, a recent graduate of the 4Geeks Academy bootcamp, and I'm ready to bring my energy and skills to the tech world.
